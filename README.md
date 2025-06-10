@@ -20,7 +20,7 @@ PriceMatic/
 
 **Quick Start for Android Users:**
 
-[📥 Download PriceMatic APK](./apk/PriceMatic.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/Hashim158/PriceMatic/releases/download/apk-v1/PriceMatic.apk)
 
 *Install the APK directly on your Android device to start using PriceMatic immediately without setting up the development environment.*
 
