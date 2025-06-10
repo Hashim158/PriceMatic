@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://pxhowlyurnpgakbserhi.supabase.co';
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4aG93bHl1cm5wZ2FrYnNlcmhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzcwNTk4MDUsImV4cCI6MjA1MjYzNTgwNX0.cFrRyHXGbazgMBU6tCiS3d_F8dw62HdfX8rUF9bzK6w';
