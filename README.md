@@ -90,6 +90,8 @@ python train_model.py
 *Add screenshots of your app views here:*
 
 - Home Screen
+![Home Screen](images/Hone-Screen.jpg)
+
 - SellNow Interface
 - Chat System
 - Valuation Tool
