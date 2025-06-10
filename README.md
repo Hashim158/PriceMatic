@@ -85,20 +85,6 @@ python train_model.py
 
 ---
 
-## 🖼️ Screenshots
-
-*Add screenshots of your app views here:*
-
-- Home Screen
-![Home Screen](images/Home-Screen.jpg)
-
-- SellNow Interface
-- Chat System
-- Valuation Tool
-- Admin Panel
-- User Profile
-
----
 
 ## 🛡️ Tech Stack
 
